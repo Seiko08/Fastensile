@@ -1,0 +1,50 @@
+
+1) Site d 'e-commerce pour un nouveau magasin.
+
+2) Titre du projet: Fastencil
+
+Objectif: Site e-commerce, vente d'ustensile de cuisine, avec paiement en ligne sécurisé. (bancontact, paypal, American express).
+
+Justification : Sert d'intermédiaire entre client et fournisseur, et regroupe que les produits haut de gamme dans le monde de la cuisine et (ses accessoires). ( Tefal, kasumi, cristel etc..)
+
+3)Faisabilité technique: nécessite un site avec du développement Web (js, html,css, php,bdd).  Un entreport de stockage. et une équipe de livraison.
+Economique: -on developpe le site (0€) et le design. ( le client à déjà une charte graphique et logo à respecter).
+opérationnel : équipe de dev (thibault logan) et de design/communication(logan).
+
+4) Objectif clair et mesurable, échéancier et ressource nécessaire: un site avec -Pages HTML et Css(2 mois avec 2 developper)
+javaScript (2 mois 2 developper) necessite 2 ordinateur, logicielles : VSCode
+une base de données avec SQL (2 mois avec 2 developper).
+mise en ligne + phase test + correction bug ( 3 semaines )
+Phase de formation afin d'expliquer le site et la BDD au client. (1 semaine)
+suivis post projet pour les MaJ site et BDD. ( 2 choix: 1) on donne tout les droits pour un montant en plus du prix de base (5000€)
+2: on Met a jour le site nous même avec un systeme d'abonnement mensuel 250€/mois).(par année).
+
+Total : 8 mois.
+
+mise en ligne du site sur un serveur (OVH).
+
+
+Estimation des couts : 15 000€ + location du serveur chaque mois.5€
+
+5) illustration, wireframe, diagramme: 
+diagramme de Gantt
+
+
+6)Risques: Malade et ou absence d'un developpeur. == > retard sur le projet.
+contre- developper ensemble, et tout mettre en ligne afin de pouvoir reprendre le projet a tout moment par l'un ou l'autre developper. et une marge est prises dans les délais.
+
+Destructions/pertes des dossiers du projet en cours ==> retard ( 
+
+contre: avoir plusieurs sauvegarde des dossiers: 1 sauvegarde ( mise a jours réguliere) sur chaque pc + 1 disque dur externe et 1 server en ligne. (github).
+
+Changement d'avis ou modification par le client ==> allongement du délais et dépassement du budget.
+contre : il y a une marge comptée dans le budget pour cela.
+on montre le projet des la fin du developpement web ( HTML CSS ) pour le reste, ce sera en fin de projet. ( un délais à été prévu aussi )
+
+7) stratégie de test : Nous testerons le site en passant plusieurs fausses commandes sur le site, après sa mise en ligne.
+
+
+
+8) Voir point 5.
+9) Présentation oral Avec PowerPoint
+10) Rapport final avec le document ici + power point etc.

@@ -1,0 +1,58 @@
+**Diapositive 1 : Page de titre**
+- Titre : Fastencil - Commerce électronique pour ustensiles de cuisine haut de gamme
+- Sous-titre : Aperçu du projet
+- Votre nom et la date
+
+**Diapositive 2 : Aperçu du projet**
+- Objectif : Lancer un site de commerce électronique pour des ustensiles de cuisine haut de gamme
+- Méthodes de paiement : Bancontact, PayPal, American Express
+- Marques : Tefal, Kasumi, Cristel, etc.
+
+**Diapositive 3 : Faisabilité**
+- Exigences techniques : Développement web (JS, HTML, CSS, PHP, BDD)
+- Économique : Coût de développement (0 €), design, équipe opérationnelle
+- Opérationnel : Équipe de développement (Thibault, Logan), équipe de design/communication
+
+**Diapositive 4 : Plan du projet**
+- Objectifs clairs et mesurables
+- Chronologie :
+  - HTML et CSS (2 mois, 2 développeurs)
+  - JavaScript (2 mois, 2 développeurs)
+  - Base de données avec SQL (2 mois, 2 développeurs)
+  - Tests et correction des bugs (3 semaines)
+  - Formation du client (1 semaine)
+  - Support post-projet (choix du client)
+
+**Diapositive 5 : Estimation des coûts**
+- Coût de développement : 15 000 €
+- Coût du serveur : 5 €/mois
+- Total : 15 000 € + coût mensuel du serveur
+
+**Diapositive 6 : Illustrations et Diagrammes**
+- Diagramme de Gantt
+- Wireframes et concepts de design
+
+**Diapositive 7 : Risques et Atténuations**
+- Absence du développeur : Développement collaboratif et mises à jour continues
+- Perte de données : Sauvegardes régulières sur les PC, disques durs externes et serveurs en ligne (GitHub)
+- Changements du client : Contingence budgétaire et temporelle
+
+**Diapositive 8 : Stratégie de test**
+- Fausses commandes après le lancement
+- Assurer la fonctionnalité et la sécurité du site web
+
+**Diapositive 9 : Aperçu de la présentation orale**
+- Mention de la présentation orale avec PowerPoint
+
+**Diapositive 10 : Présentation orale**
+- Mise en avant des points clés
+- Réponse aux questions ou préoccupations
+
+**Diapositive 11 : Rapport final**
+- Résumé du projet
+- Défis rencontrés et surmontés
+- Enseignements tirés et améliorations
+
+**Diapositive 12 : Merci**
+- Coordonnées
+- Remarques de clôture
